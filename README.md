@@ -29,8 +29,8 @@
 
 ### November Schedule:
 
-| Date       | Working Employee | Resting Employees         |
-|------------|------------------|---------------------------|
+| Date       | Working Employee | Resting Employees         | Leaving 
+|------------|------------------|---------------------------|----------|
 | 01/11      | FK (Day 1)        | Kelvin, Martin            |
 | 02/11      | FK (Day 2)        | Kelvin, Martin            |
 | 03/11      | FK (Day 3)        | Kelvin, Martin            |
@@ -97,6 +97,45 @@
 | 29/12      | FK (Day 5, covering Martin) | Kelvin, Martin  |
 | 30/12      | FK (Day 6, covering Martin) | Kelvin, Martin  |
 | 31/12      | Kelvin            | FK, Martin                |
+
+### January 2025 Schedule:
+
+| Date       | Primary Worker   | Backup/Coverage    |
+|------------|------------------|-------------------|
+| 01/01/2025 | Kelvin           | FK, Martin        |
+| 02/01/2025 | Kelvin           | FK, Martin        |
+| 03/01/2025 | Martin (Day 1)   | Kelvin, FK        |
+| 04/01/2025 | Martin (Day 2)   | Kelvin, FK        |
+| 05/01/2025 | Martin (Day 3)   | Kelvin, FK        |
+| 06/01/2025 | Martin (Day 4, covering FK) | Kelvin, FK |
+| 07/01/2025 | Martin (Day 5, covering FK) | Kelvin, FK |
+| 08/01/2025 | Martin (Day 6, covering FK) | Kelvin, FK |
+| 09/01/2025 | FK (Day 1)       | Kelvin, Martin    |
+| 10/01/2025 | FK (Day 2)       | Kelvin, Martin    |
+| 11/01/2025 | FK (Day 3)       | Kelvin, Martin    |
+| 12/01/2025 | FK (Day 4, covering Martin) | Kelvin, Martin |
+| 13/01/2025 | FK (Day 5, covering Martin) | Kelvin, Martin |
+| 14/01/2025 | FK (Day 6, covering Martin) | Kelvin, Martin |
+| 15/01/2025 | Kelvin           | FK, Martin        |
+| 16/01/2025 | Kelvin           | FK, Martin        |
+| 17/01/2025 | Kelvin           | FK, Martin        |
+| 18/01/2025 | Martin (Day 1)   | Kelvin, FK        |
+| 19/01/2025 | Martin (Day 2)   | Kelvin, FK        |
+| 20/01/2025 | Martin (Day 3)   | Kelvin, FK        |
+| 21/01/2025 | Martin (Day 4, covering FK) | Kelvin, FK |
+| 22/01/2025 | Martin (Day 5, covering FK) | Kelvin, FK |
+| 23/01/2025 | Martin (Day 6, covering FK) | Kelvin, FK |
+| 24/01/2025 | FK (Day 1)       | Kelvin, Martin    |
+| 25/01/2025 | FK (Day 2)       | Kelvin, Martin    |
+| 26/01/2025 | FK (Day 3)       | Kelvin, Martin    |
+| 27/01/2025 | FK (Day 4, covering Martin) | Kelvin, Martin |
+| 28/01/2025 | FK (Day 5, covering Martin) | Kelvin, Martin |
+| 29/01/2025 | FK (Day 6, covering Martin) | Kelvin, Martin |
+| 30/01/2025 | Kelvin           | FK, Martin        |
+| 31/01/2025 | Kelvin           | FK, Martin        |
+
+
+
 
 ## Summary of Work and Rest Days (October to December)
 
