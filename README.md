@@ -136,36 +136,90 @@
 
 ### Feb 2025 Schedule:
 
-| Date       | Primary Worker   | Backup/Coverage    |
-|------------|------------------|-------------------|
-| 01/02/2025 | Kelvin           | FK, Martin        |
-| 02/02/2025 | Kelvin           | FK, Martin        |
-| 03/02/2025 | Kelvin           | FK, Martin        |
-| 04/02/2025 | Martin (Day 1)   | Kelvin, FK        |
-| 05/02/2025 | Martin (Day 2)   | Kelvin, FK        |
-| 06/02/2025 | Martin (Day 3)   | Kelvin, FK        |
-| 07/02/2025 | Martin (Day 4, covering FK) | Kelvin, FK |
-| 08/02/2025 | Martin (Day 5, covering FK) | Kelvin, FK |
-| 09/02/2025 | Martin (Day 6, covering FK) | Kelvin, FK |
-| 10/02/2025 | FK (Day 1)       | Kelvin, Martin    |
-| 11/02/2025 | FK (Day 2)       | Kelvin, Martin    |
-| 12/02/2025 | FK (Day 3)       | Kelvin, Martin    |
-| 13/02/2025 | FK (Day 4, covering Martin) | Kelvin, Martin |
-| 14/02/2025 | FK (Day 5, covering Martin) | Kelvin, Martin |
-| 15/02/2025 | FK (Day 6, covering Martin) | Kelvin, Martin |
-| 16/02/2025 | Kelvin           | FK, Martin        |
-| 17/02/2025 | Kelvin           | FK, Martin        |
-| 18/02/2025 | Kelvin           | FK, Martin        |
-| 19/02/2025 | Martin (Day 1)   | Kelvin, FK        |
-| 20/02/2025 | Martin (Day 2)   | Kelvin, FK        |
-| 21/02/2025 | Martin (Day 3)   | Kelvin, FK        |
-| 22/02/2025 | Martin (Day 4, covering FK) | Kelvin, FK |
-| 23/02/2025 | Martin (Day 5, covering FK) | Kelvin, FK |
-| 24/02/2025 | Martin (Day 6, covering FK) | Kelvin, FK |
-| 25/02/2025 | FK (Day 1)       | Kelvin, Martin    |
-| 26/02/2025 | FK (Day 2)       | Kelvin, Martin    |
-| 27/02/2025 | FK (Day 3)       | Kelvin, Martin    |
-| 28/02/2025 | FK (Day 4, covering Martin) | Kelvin, Martin |
+### February 2025:
+
+| Date       | Working Employee | Resting Employees         |
+|------------|------------------|---------------------------|
+| 01/02      | Kelvin            | FK, Martin                |
+| 02/02      | Martin (Day 1)    | Kelvin, FK                |
+| 03/02      | Martin (Day 2)    | Kelvin, FK                |
+| 04/02      | Martin (Day 3)    | Kelvin, FK                |
+| 05/02      | Martin (Day 4, covering FK) | Kelvin, FK       |
+| 06/02      | Martin (Day 5, covering FK) | Kelvin, FK       |
+| 07/02      | Martin (Day 6, covering FK) | Kelvin, FK       |
+| 08/02      | FK (Day 1)        | Kelvin, Martin            |
+| 09/02      | FK (Day 2)        | Kelvin, Martin            |
+| 10/02      | FK (Day 3)        | Kelvin, Martin            |
+| 11/02      | FK (Day 4, covering Martin) | Kelvin, Martin  |
+| 12/02      | FK (Day 5, covering Martin) | Kelvin, Martin  |
+| 13/02      | FK (Day 6, covering Martin) | Kelvin, Martin  |
+| 14/02      | Kelvin            | FK, Martin                |
+| 15/02      | Kelvin            | FK, Martin                |
+| 16/02      | Kelvin            | FK, Martin                |
+| 17/02      | Martin (Day 1)    | Kelvin, FK                |
+| 18/02      | Martin (Day 2)    | Kelvin, FK                |
+| 19/02      | Martin (Day 3)    | Kelvin, FK                |
+| 20/02      | Martin (Day 4, covering FK) | Kelvin, FK       |
+| 21/02      | Martin (Day 5, covering FK) | Kelvin, FK       |
+| 22/02      | Martin (Day 6, covering FK) | Kelvin, FK       |
+| 23/02      | FK (Day 1)        | Kelvin, Martin            |
+| 24/02      | FK (Day 2)        | Kelvin, Martin            |
+| 25/02      | FK (Day 3)        | Kelvin, Martin            |
+| 26/02      | FK (Day 4, covering Martin) | Kelvin, Martin  |
+| 27/02      | FK (Day 5, covering Martin) | Kelvin, Martin  |
+| 28/02      | FK (Day 6, covering Martin) | Kelvin, Martin  |
+---
+
+### March 2025:
+
+| Date       | Working Employee | Resting Employees         |
+|------------|------------------|---------------------------|
+| 01/03      | Kelvin            | FK, Martin                |
+| 02/03      | Kelvin            | FK, Martin                |
+| 03/03      | Martin (Day 1)    | Kelvin, FK                |
+| 04/03      | Martin (Day 2)    | Kelvin, FK                |
+| 05/03      | Martin (Day 3)    | Kelvin, FK                |
+| 06/03      | Martin (Day 4, covering FK) | Kelvin, FK       |
+| 07/03      | Martin (Day 5, covering FK) | Kelvin, FK       |
+| 08/03      | Martin (Day 6, covering FK) | Kelvin, FK       |
+| 09/03      | FK (Day 1)        | Kelvin, Martin            |
+| 10/03      | FK (Day 2)        | Kelvin, Martin            |
+| 11/03      | FK (Day 3)        | Kelvin, Martin            |
+| 12/03      | FK (Day 4, covering Martin) | Kelvin, Martin  |
+| 13/03      | FK (Day 5, covering Martin) | Kelvin, Martin  |
+| 14/03      | FK (Day 6, covering Martin) | Kelvin, Martin  |
+| 15/03      | Kelvin            | FK, Martin                |
+| 16/03      | Kelvin            | FK, Martin                |
+| 17/03      | Kelvin            | FK, Martin                |
+| 18/03      | Martin (Day 1)    | Kelvin, FK                |
+| 19/03      | Martin (Day 2)    | Kelvin, FK                |
+| 20/03      | Martin (Day 3)    | Kelvin, FK                |
+| 21/03      | Martin (Day 4, covering FK) | Kelvin, FK       |
+| 22/03      | Martin (Day 5, covering FK) | Kelvin, FK       |
+| 23/03      | Martin (Day 6, covering FK) | Kelvin, FK       |
+| 24/03      | FK (Day 1)        | Kelvin, Martin            |
+| 25/03      | FK (Day 2)        | Kelvin, Martin            |
+| 26/03      | FK (Day 3)        | Kelvin, Martin            |
+| 27/03      | FK (Day 4, covering Martin) | Kelvin, Martin  |
+| 28/03      | FK (Day 5, covering Martin) | Kelvin, Martin  |
+| 29/03      | FK (Day 6, covering Martin) | Kelvin, Martin  |
+| 30/03      | Kelvin            | FK, Martin                |
+| 31/03      | Kelvin            | FK, Martin                |
+
+---
+
+### April 2025:
+
+| Follow similar pattern as above |
+
+---
+
+### May 2025:
+
+| Follow similar |
+
+---
+
 
 
 
